@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.xlsx
+.cite_last_datadir.txt
+build/
+dist/
+*.spec
+.streamlit/secrets.toml
+CITE-Internship-Portal.zip
